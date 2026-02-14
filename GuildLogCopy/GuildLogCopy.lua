@@ -116,12 +116,12 @@ local function CreateMainWindow()
     --------------------------------------------------
     frame.filter = "ALL"
     local filters = {
-        { key = "ALL", label = "Все" },
-        { key = "JOIN", label = "Вступления" },
-        { key = "LEAVE", label = "Выходы" },
-        { key = "KICK", label = "Кики" },
-        { key = "RANK", label = "Ранги" },
-        { key = "INVITE", label = "Приглашения" }, -- Добавлена кнопка Приглашения
+        { key = "ALL", label = "All" },
+        { key = "JOIN", label = "join" },
+        { key = "LEAVE", label = "Leave" },
+        { key = "KICK", label = "Kick" },
+        { key = "RANK", label = "Ranks" },
+        { key = "INVITE", label = "Invite" }, -- Добавлена кнопка Приглашения
     }
 
     local lastBtn

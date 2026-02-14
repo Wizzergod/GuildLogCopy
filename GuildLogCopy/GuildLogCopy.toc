@@ -1,7 +1,7 @@
 ## Interface: 30300
 ## Title: |cff7fff7f Guild|r Log |cff0066ff Copy|r |cFFFFA0A0 by Wizzergod|r
 ## Author: |cff0066ff W|r|cff0066ff izzergod|r
-## Version: 0.1.0
+## Version: 0.1.1
 ## X-Date: 2026-02-05
 ## X-Category: Guild
 ## X-Website: 
